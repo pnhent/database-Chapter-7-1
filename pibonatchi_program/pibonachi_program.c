@@ -1,3 +1,8 @@
+//이름: 박노현
+//학번: 202010553
+//문제: 피보나치 수열 순환 또는 반복 시간 비교
+//실습일: 20230504
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
