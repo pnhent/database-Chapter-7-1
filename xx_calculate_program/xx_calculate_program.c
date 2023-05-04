@@ -1,3 +1,8 @@
+//이름: 박노현
+//학번: 202010553
+//문제: 거듭제곱 순환 또는 반복문 실행 시간 계산
+//실습일: 20230504
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
